@@ -16,7 +16,7 @@ import {
   FormMessage,
 } from "@/components/ui/form"
 import { ticketSchema } from "@/lib/types"
-import { submitTicket } from "@/app/submit/submit-action"
+import { submitTicket } from "@/actions/submit-action"
 import { useState } from "react"
 
 
